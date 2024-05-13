@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-//definir esquema
+
 const clienteSchema = new mongoose.Schema({
 
     nombre: String,
